@@ -7,3 +7,6 @@ Workspace for following a long with the first video in the "Joining Data with pa
 
 ### inner_joins_31126
 A kind of playground for me to experiment with small toy datasets and check if I understand how the joins will work
+
+### Python_Review_31226
+Review notes covering general python and pandas stuff
