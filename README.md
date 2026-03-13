@@ -13,3 +13,6 @@ Review notes covering general python and pandas stuff
 
 ### genres_and_sequels_31226
 A small exploration of datasets from DataCamp, playing around with multi-table merges. Trying to see what genre has the greatest number of sequels
+
+### general_notes_and_snips
+A scrapbook for useful code snippets and reminders, particularly for stuff I've ran into difficulties with or otherwise discovered more efficient methods for dealing with
