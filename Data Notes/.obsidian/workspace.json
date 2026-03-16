@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "ecf20539b6c888df",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a20feec223d10d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3852190f16c7e0a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Joining Data with Pandas/Data Merging.canvas",
+                "viewState": {
+                  "x": 279.6729559748427,
+                  "y": 146.31551362683433,
+                  "zoom": -0.9103143168628635
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Data Merging"
+            }
+          },
+          {
+            "id": "000fad73b02140e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO-DO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TO-DO"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ccc2e1a942a04901",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecb2cbc503d760cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4f878d6187e5c98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "98b190e515cb45f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bc9bd4241ca5db6a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "169541f45db6c15b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dc1ff4747271c77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8edefce6bd42d541",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TO-DO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TO-DO"
+            }
+          },
+          {
+            "id": "d242b03d0a1ba0ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TO-DO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TO-DO"
+            }
+          },
+          {
+            "id": "a1294a0829dbf2d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ebcb4742b2144bf0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "993d8eccd8a3ef4f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TO-DO.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TO-DO"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "000fad73b02140e9",
+  "lastOpenFiles": [
+    "Joining Data with Pandas/Data Merging.canvas",
+    "TO-DO.md",
+    "Joining Data with Pandas/Join Types.md",
+    "Joining Data with Pandas/Data Merging.md",
+    "Untitled 1.base",
+    "2026-03-16.md",
+    "Untitled 2.base",
+    "Untitled.base",
+    "'.merge()'.md",
+    "Untitled.canvas",
+    "Joining Data with Pandas/Outer Merge Example.md",
+    "Joining Data with Pandas/Anti-Join Example.md",
+    "Joining Data with Pandas/Semi-Join Example.md",
+    "Joining Data with Pandas/Inner Merge Example.md",
+    "Joining Data with Pandas/Left Merge Example.md",
+    "Joining Data with Pandas/Right Merge Example.md",
+    "Images/Pasted image 20260316103554.png",
+    "Images",
+    "Images/Pasted image 20260316104117.png",
+    "Images/Pasted image 20260316104115.png",
+    "Images/Pasted image 20260316104109.png",
+    "Images/Pasted image 20260316103948.png",
+    "Images/Pasted image 20260316103817.png",
+    "Images/Pasted image 20260316103559.png",
+    "Joining Data with Pandas"
+  ]
+}

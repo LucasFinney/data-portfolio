@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"6da76b0690478baa","type":"file","file":"'.merge()'.md","x":240,"y":-240,"width":400,"height":620},
+		{"id":"a06e001b0a7b5c8f","type":"file","file":"Joining Data with Pandas/Inner Merge Example.md","x":1020,"y":-960,"width":560,"height":440},
+		{"id":"2fa4efdee83cdbc5","type":"file","file":"Joining Data with Pandas/Outer Merge Example.md","x":1780,"y":-960,"width":400,"height":400},
+		{"id":"d2d7a75376782d36","type":"file","file":"Joining Data with Pandas/Left Merge Example.md","x":1020,"y":-280,"width":580,"height":415},
+		{"id":"5318e63d1008e4b3","type":"file","file":"Joining Data with Pandas/Right Merge Example.md","x":1710,"y":-240,"width":540,"height":400},
+		{"id":"463abaf283c0b58c","type":"file","file":"Joining Data with Pandas/Semi-Join Example.md","x":1020,"y":270,"width":400,"height":400},
+		{"id":"2c93b09decb4d9ec","type":"file","file":"Joining Data with Pandas/Anti-Join Example.md","x":1710,"y":270,"width":400,"height":400},
+		{"id":"004b2d8d073cb645","type":"file","file":"Joining Data with Pandas/Data Merging.md","x":-360,"y":-130,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"9821c2073a6873b7","fromNode":"6da76b0690478baa","fromSide":"right","toNode":"d2d7a75376782d36","toSide":"left"},
+		{"id":"6d40dd1bb566c9eb","fromNode":"6da76b0690478baa","fromSide":"top","toNode":"a06e001b0a7b5c8f","toSide":"left"},
+		{"id":"634771a39ebec363","fromNode":"6da76b0690478baa","fromSide":"right","toNode":"5318e63d1008e4b3","toSide":"left"},
+		{"id":"f6b0e6f3ad893704","fromNode":"6da76b0690478baa","fromSide":"bottom","toNode":"463abaf283c0b58c","toSide":"left"},
+		{"id":"33f618ba596099b5","fromNode":"6da76b0690478baa","fromSide":"top","toNode":"2fa4efdee83cdbc5","toSide":"left"},
+		{"id":"a8a99f2d47b6e288","fromNode":"6da76b0690478baa","fromSide":"bottom","toNode":"2c93b09decb4d9ec","toSide":"left"},
+		{"id":"bc3133eca9c9ff02","fromNode":"004b2d8d073cb645","fromSide":"right","toNode":"6da76b0690478baa","toSide":"left"}
+	]
+}
